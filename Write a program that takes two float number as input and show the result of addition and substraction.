@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()  
+{  
+    float  num1, num2;  
+    float  addition, substraction;
+    printf("Input any two numbers: ");  
+    scanf("%d,%d", &num1, &num2);  
+    addition = num1 + num2;  
+    substraction = num1 - num2;  
+    printf("Addition : %d\n", sum);  
+    printf("Substraction : %d\n", sub);  
+   return 0;   
+} 
