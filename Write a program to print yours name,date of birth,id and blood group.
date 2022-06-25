@@ -1,0 +1,11 @@
+\\Write a program to print yours name,date of birth,id and blood group.
+
+#include <stdio.h> 
+ int main()  
+  {
+     printf("Name            : Khalid Saifullah\n"); 
+     printf("DOB             : July 05, 2000\n"); 
+     printf("ID              : 221-35-977\n"); 
+     printf("Blood Group     :O+\n"); 
+     return(0); 
+  }
